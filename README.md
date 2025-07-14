@@ -1,3 +1,5 @@
+Linux performence https://www.brendangregg.com/linuxperf.html
+
 Date-9/July/2025
 
 AST internal and how they work - https://youtu.be/tM_S-pa4xDk?si=mQYpSxq75m5kJsew
