@@ -1,3 +1,10 @@
+Date- 22/July/2025
+
+Bulding this subdomain(mutli-tenant) app
+
+Widlcard subdomain - https://developers.cloudflare.com/dns/manage-dns-records/reference/wildcard-dns-records/
+What are dns record - https://www.cloudflare.com/en-gb/learning/dns/dns-records/
+
 Linux performence https://www.brendangregg.com/linuxperf.html
 
 Date-9/July/2025
