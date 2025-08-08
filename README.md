@@ -1,3 +1,9 @@
+Date - 8/Aug/2025
+
+Learning statistical machine learning and Math (already familiar with Python, Numpy etc)
+Andrew ng - https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+Math for machine learning - https://youtu.be/oyyFpAwyt6w?si=mNpj7rGLfMGHOovq
+
 Date- 22/July/2025
 
 Bulding this subdomain(mutli-tenant) app
