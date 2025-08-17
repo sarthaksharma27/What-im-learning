@@ -1,3 +1,7 @@
+Date - 17/Aug/2025
+
+Garbage collection algorithm mark-sweep - https://animeshgaitonde.medium.com/garbage-collection-algorithm-mark-sweep-ed874272702d
+
 Date - 8/Aug/2025
 
 Learning statistical machine learning and Math (already familiar with Python, Numpy etc)
