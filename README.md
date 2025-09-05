@@ -1,6 +1,7 @@
 Date - 4/Sep/2025
 
 Nodejs internalls - https://nodejs.org/api/
+V8 blogs - https://v8.dev/blog
 
 Date - 17/Aug/2025
 
