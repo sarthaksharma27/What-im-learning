@@ -1,3 +1,7 @@
+Date - 4/Sep/2025
+
+Nodejs internalls - https://nodejs.org/api/
+
 Date - 17/Aug/2025
 
 Garbage collection algorithm mark-sweep - https://animeshgaitonde.medium.com/garbage-collection-algorithm-mark-sweep-ed874272702d
