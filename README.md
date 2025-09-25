@@ -1,3 +1,8 @@
+Date - 25/Sep/2025
+
+Make a codebase indexing package so i am using Tree sitter - https://github.com/tree-sitter/node-tree-sitter
+
+
 Date - 4/Sep/2025
 
 Nodejs internalls - https://nodejs.org/api/
