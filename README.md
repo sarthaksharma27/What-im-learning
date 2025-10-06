@@ -1,3 +1,9 @@
+Date = 6/Oct/2025
+
+Continung working on Codebase indexing pjoject now i have to conver the codegarph 
+into vector so i was learing abut the vector embedding models etc - https://platform.openai.com/docs/guides/embeddings
+open source models: https://huggingface.co/BAAI/bge-small-en-v1.5?utm_source=chatgpt.com
+
 Date - 25/Sep/2025
 
 Make a codebase indexing package so i am using Tree sitter - https://github.com/tree-sitter/node-tree-sitter
