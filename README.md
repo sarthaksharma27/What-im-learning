@@ -1,6 +1,6 @@
 Date - 12/Oct/2025
 
-cloudflare agent - https://developers.cloudflare.com/agents/?utm_content=agents.cloudflare.com
+cloudflare agents - https://developers.cloudflare.com/agents/?utm_content=agents.cloudflare.com
 
 Date = 6/Oct/2025
 
