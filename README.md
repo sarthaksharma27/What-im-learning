@@ -5,7 +5,7 @@ cloudflare agents(working on this project recenlty) - https://developers.cloudfl
 
 Date = 6/Oct/2025
 
-Continung working on Codebase indexing pjoject now i have to conver the codegarph 
+Continung working on Codebase indexing pjoject now i have to convert the codegarph 
 into vector so i was learing abut the vector embedding models etc - https://platform.openai.com/docs/guides/embeddings
 open source models: https://huggingface.co/BAAI/bge-small-en-v1.5?utm_source=chatgpt.com
 
