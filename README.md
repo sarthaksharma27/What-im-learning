@@ -16,7 +16,7 @@ Make a codebase indexing package so i am using Tree sitter - https://github.com/
 
 Date - 4/Sep/2025
 
-Nodejs internalls - https://nodejs.org/api/
+Nodejs internall - https://nodejs.org/api/
 V8 blogs - https://v8.dev/blog
 
 Date - 17/Aug/2025
