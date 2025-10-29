@@ -1,3 +1,8 @@
+Date - 29/Oct/2025
+
+Mintlify Docs - https://www.mintlify.com/docs
+
+
 Date - 12/Oct/2025
 
 Cloudflare blogs - https://blog.cloudflare.com/workers-ai-bigger-better-faster/?utm_source=chatgpt.com/
