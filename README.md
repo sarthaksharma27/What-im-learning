@@ -1,6 +1,6 @@
 Date - 29/Oct/2025
 
-Mintlify Docs - https://www.mintlify.com/docs
+Mintlify Docs (writing technical documentation) - https://www.mintlify.com/docs
 
 Date - 12/Oct/2025
 
