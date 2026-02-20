@@ -1,3 +1,7 @@
+Date - 20/Feb/2026
+
+PostgresSQL internals - https://www.postgresql.org/files/documentation/pdf/18/postgresql-18-A4.pdf
+
 Date - 29/Oct/2025
 
 Mintlify Docs (writing technical documentation) - https://www.mintlify.com/docs
